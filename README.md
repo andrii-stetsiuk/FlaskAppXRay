@@ -1,6 +1,7 @@
 # FlaskAppXRay
 
   Endpoints:
+  
     - GET http://localhost/api/requests
       Example response:
       {
